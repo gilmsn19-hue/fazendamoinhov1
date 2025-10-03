@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Home Page -->
+  <url>
+    <loc>https://www.fazendamoinhoeventos.com/</loc>
+    <lastmod>2025-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxsbtjqjv/image/upload/v1752677997/37614e_wtgtzt.jpg</image:loc>
+      <image:title>Fazenda Moinho - Espaço para Eventos</image:title>
+      <image:caption>Vista principal da Fazenda Moinho com jardins e casarão colonial</image:caption>
+    </image:image>
+  </url>
+
+  <!-- O Espaço Page -->
+  <url>
+    <loc>https://www.fazendamoinhoeventos.com/o-espaco</loc>
+    <lastmod>2025-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxsbtjqjv/image/upload/f_auto,q_auto,w_1200,h_630,c_fill/v1752845194/IMG-20250717-WA0138_j1wpkj.jpg</image:loc>
+      <image:title>Espaços da Fazenda Moinho</image:title>
+      <image:caption>Bangalô exclusivo e casarão colonial para eventos</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Blog Main Page -->
+  <url>
+    <loc>https://www.fazendamoinhoeventos.com/blog</loc>
+    <lastmod>2025-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxsbtjqjv/image/upload/f_auto,q_auto,w_1200,h_630,c_fill/v1752845194/IMG-20250717-WA0138_j1wpkj.jpg</image:loc>
+      <image:title>Blog da Fazenda Moinho</image:title>
+      <image:caption>Dicas e inspirações para eventos</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Blog Articles -->
+  <url>
+    <loc>https://www.fazendamoinhoeventos.com/blog/planejar-casamento-ao-ar-livre</loc>
+    <lastmod>2025-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.pexels.com/photos/733857/pexels-photo-733857.jpeg</image:loc>
+      <image:title>Como Planejar um Casamento ao Ar Livre Perfeito</image:title>
+      <image:caption>Guia completo para planejar seu casamento ao ar livre dos sonhos</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.fazendamoinhoeventos.com/blog/tendencias-casamentos-2025</loc>
+    <lastmod>2025-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.pexels.com/photos/7462749/pexels-photo-7462749.jpeg</image:loc>
+      <image:title>Tendências para Casamentos em 2025</image:title>
+      <image:caption>Descubra as principais tendências que vão marcar os casamentos em 2025</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.fazendamoinhoeventos.com/blog/estilo-casamento</loc>
+    <lastmod>2025-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.pexels.com/photos/6102181/pexels-photo-6102181.jpeg</image:loc>
+      <image:title>Como Escolher o Estilo do Seu Casamento</image:title>
+      <image:caption>Guia completo dos estilos de casamento: clássico, rústico, boho, moderno e mais</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.fazendamoinhoeventos.com/blog/bolo-casamento</loc>
+    <lastmod>2025-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.pexels.com/photos/1345574/pexels-photo-1345574.jpeg</image:loc>
+      <image:title>Sabores Mais Pedidos de Bolo de Casamento</image:title>
+      <image:caption>Descubra os sabores de bolo de casamento mais populares e recheios deliciosos</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Legal Pages -->
+  <url>
+    <loc>https://www.fazendamoinhoeventos.com/politica-de-privacidade</loc>
+    <lastmod>2025-07-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.fazendamoinhoeventos.com/termos-de-uso</loc>
+    <lastmod>2025-07-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>
